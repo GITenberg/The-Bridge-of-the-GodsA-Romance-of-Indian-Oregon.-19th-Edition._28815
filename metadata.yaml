@@ -1,0 +1,29 @@
+_repo: The-Bridge-of-the-GodsA-Romance-of-Indian-Oregon.-19th-Edition._28815
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Balch, Frederic Homer
+    birthdate: 1861
+    deathdate: 1891
+    gutenberg_agent_id: '33541'
+    url: http://www.gutenberg.org/2009/agents/33541
+description: ''
+gutenberg_issued: '2009-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Oregon -- Fiction'
+- !lcsh 'Indians of North America -- Fiction'
+title: 'The Bridge of the Gods
+
+  A Romance of Indian Oregon. 19th Edition.'
+url: http://www.gutenberg.org/ebooks/28815
