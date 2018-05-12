@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33541'
     url: http://www.gutenberg.org/2009/agents/33541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28815#The-Bridge-of-the-GodsA-Romance-of-Indian-Oregon.-19th-Edition.
 gutenberg_issued: '2009-05-14'
 gutenberg_type: Text
 identifiers:
